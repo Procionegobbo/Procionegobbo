@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Federico Maiorini
+## I'm a senior PHP developer with a strong passion for Laravel
 
-<!--
-**Procionegobbo/Procionegobbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on various projects at [Fitprime](https://github.com/FitprimeLabs)
+- 🌱 I’m alway try to learn new things
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Procionegobbo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![Procionegobbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Procionegobbo&count_private=true)
+
+
+
+
+## Most used technologies and tools
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,docker,git,github)](https://skillicons.dev)
