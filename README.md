@@ -14,7 +14,7 @@
 
 ---
 
-![Procionegobbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Procionegobbo&count_private=true)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
