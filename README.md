@@ -3,8 +3,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on various projects at [Fitprime](https://github.com/FitprimeLabs)
 - 🌱 I’m always try to learn new things
 
