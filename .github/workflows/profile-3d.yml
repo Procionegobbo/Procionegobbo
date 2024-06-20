@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       #- uses: yoshi389111/github-profile-3d-contrib@0.7.1
-      - uses: Tech-Fear/github-profile-3d-contrib-Update@head
+      - uses: Tech-Fear/github-profile-3d-contrib-Update@*
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
