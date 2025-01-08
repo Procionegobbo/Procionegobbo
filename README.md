@@ -8,10 +8,6 @@
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
----
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Procionegobbo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
