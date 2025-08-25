@@ -8,7 +8,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Procionegobbo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://trophygh.kolioaris.xyz/?username=Procionegobbo&theme=oldie)
 
 
 ## Most used technologies and tools
