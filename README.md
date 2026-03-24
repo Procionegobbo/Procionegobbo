@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Federico Maiorini
-## I'm a senior PHP developer with a strong passion for Laravel
+## I'm a senior developer with a strong passion for Laravel
 
 
 
