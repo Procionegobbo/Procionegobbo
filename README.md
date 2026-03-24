@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on various projects at [FitprimeLabs](https://github.com/FitprimeLabs)
+- 🔭 I’m currently working on various projects at [FitprimeLabs](https://github.com/FitprimeLabs) and [Wellhub](https://github.com/gympass)
 - 🌱 I’m always trying to learn new things
 
 ---
