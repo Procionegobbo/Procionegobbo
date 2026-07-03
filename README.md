@@ -12,6 +12,6 @@
 
 
 ## Most used technologies and tools
-[![Main Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,js,html,css,docker,git,github,phpstorm,vscode)](https://skillicons.dev)
-## And a little of
-[![Other Skills](https://skillicons.dev/icons?i=go,redis,c,linux,nginx,githubactions,kafka,rabbitmq)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,go,kafka,docker,git,github,phpstorm,vscode)](https://skillicons.dev)
+## Less used but still in the bag
+[![Other Skills](https://skillicons.dev/icons?i=redis,js,html,css,linux,nginx,githubactions,rabbitmq,kubernetes)](https://skillicons.dev)
