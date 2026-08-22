@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/procionegobbo.png" width="120" alt="Procionegobbo logo" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Federico%20Maiorini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Developer%20%C2%B7%2020%2B%20years%20%C2%B7%20Laravel%20%E2%86%92%20Go&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://www.linkedin.com/in/federicomaiorini/">
