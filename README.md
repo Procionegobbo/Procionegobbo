@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Federico%20Maiorini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Developer%20%C2%B7%20Laravel%20%E2%86%92%20Go&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Federico%20Maiorini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Developer%20%C2%B7%2020%2B%20years%20%C2%B7%20Laravel%20%E2%86%92%20Go&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://www.linkedin.com/in/federicomaiorini/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,6 +10,9 @@
 </a>
 <a href="mailto:procionegobbo@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://livellosegreto.it/@procionegobbo" rel="me">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
 </a>
 
 <br/>
@@ -25,7 +28,8 @@
 - 🔭 I'm currently working on various projects at [FitprimeLabs](https://github.com/FitprimeLabs) and [Wellhub](https://github.com/gympass)
 - 🐘 Senior developer with a strong background in **Laravel / PHP**
 - 🐹 Currently moving towards **Go**
-- 🌱 Always trying to learn new things
+- 🌱 Currently exploring event-driven architecture, design patterns, and agentic / spec-driven coding
+- 🎲 Game master & worldbuilder since 1985
 
 ---
 
@@ -46,5 +50,7 @@
 <div align="center">
 
 <img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<sub><i>Stats cover public repositories only.</i></sub>
 
 </div>
