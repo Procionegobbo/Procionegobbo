@@ -8,8 +8,6 @@
 
 ---
 
-![trophy](https://trophygh.kolioaris.xyz/?username=Procionegobbo&theme=oldie)
-
 
 ## Most used technologies and tools
 [![Main Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,go,kafka,docker,git,github,phpstorm,vscode)](https://skillicons.dev)
