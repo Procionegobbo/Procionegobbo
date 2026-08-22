@@ -1,0 +1,38 @@
+name: Metrics
+
+on:
+  # Rigenera le stats ogni giorno a mezzanotte (UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Permette il run manuale dalla tab Actions
+  workflow_dispatch:
+  # Rigenera anche a ogni push su main
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Token personale con scope "repo" salvato nei Secrets del repo
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Procionegobbo
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: Europe/Rome
+          base: header, activity, community, repositories, metadata
+
+          # Linguaggi più usati
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # Calendario dei contributi (attività dell'anno)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
