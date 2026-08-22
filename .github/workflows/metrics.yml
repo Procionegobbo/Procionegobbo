@@ -1,9 +1,9 @@
 name: Metrics
 
 on:
-  # Rigenera le stats ogni giorno a mezzanotte (UTC)
+  # Rigenera le stats una volta al mese, il primo giorno a mezzanotte (UTC)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   # Permette il run manuale dalla tab Actions
   workflow_dispatch:
   # Rigenera anche a ogni push su main
